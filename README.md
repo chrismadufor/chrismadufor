@@ -13,11 +13,6 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves working o
 
 ---
 
-### 📊 GitHub Stats
-![Chris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrismadufor&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chrismadufor&theme=dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismadufor&layout=compact&theme=tokyonight)
 
 ---
